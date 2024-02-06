@@ -1,0 +1,16 @@
+C:\Users\Дима\source\repos\ТестовоеЗадание\bin\Debug\net5.0\ТестовоеЗадание.exe
+C:\Users\Дима\source\repos\ТестовоеЗадание\bin\Debug\net5.0\ТестовоеЗадание.deps.json
+C:\Users\Дима\source\repos\ТестовоеЗадание\bin\Debug\net5.0\ТестовоеЗадание.runtimeconfig.json
+C:\Users\Дима\source\repos\ТестовоеЗадание\bin\Debug\net5.0\ТестовоеЗадание.runtimeconfig.dev.json
+C:\Users\Дима\source\repos\ТестовоеЗадание\bin\Debug\net5.0\ТестовоеЗадание.dll
+C:\Users\Дима\source\repos\ТестовоеЗадание\bin\Debug\net5.0\ref\ТестовоеЗадание.dll
+C:\Users\Дима\source\repos\ТестовоеЗадание\bin\Debug\net5.0\ТестовоеЗадание.pdb
+C:\Users\Дима\source\repos\ТестовоеЗадание\obj\Debug\net5.0\ТестовоеЗадание.csproj.AssemblyReference.cache
+C:\Users\Дима\source\repos\ТестовоеЗадание\obj\Debug\net5.0\ТестовоеЗадание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дима\source\repos\ТестовоеЗадание\obj\Debug\net5.0\ТестовоеЗадание.AssemblyInfoInputs.cache
+C:\Users\Дима\source\repos\ТестовоеЗадание\obj\Debug\net5.0\ТестовоеЗадание.AssemblyInfo.cs
+C:\Users\Дима\source\repos\ТестовоеЗадание\obj\Debug\net5.0\ТестовоеЗадание.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\ТестовоеЗадание\obj\Debug\net5.0\ТестовоеЗадание.dll
+C:\Users\Дима\source\repos\ТестовоеЗадание\obj\Debug\net5.0\ref\ТестовоеЗадание.dll
+C:\Users\Дима\source\repos\ТестовоеЗадание\obj\Debug\net5.0\ТестовоеЗадание.pdb
+C:\Users\Дима\source\repos\ТестовоеЗадание\obj\Debug\net5.0\ТестовоеЗадание.genruntimeconfig.cache

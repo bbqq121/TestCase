@@ -1,0 +1,3 @@
+[KTA_NDS]
+Connect=File="\\clusterfs126\users\91776\DB\Accounting3";
+

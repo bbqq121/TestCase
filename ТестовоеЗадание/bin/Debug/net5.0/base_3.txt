@@ -1,0 +1,3 @@
+[Оптовик]
+Connect=Srvr="host371:1741";Ref="432345_base01";
+

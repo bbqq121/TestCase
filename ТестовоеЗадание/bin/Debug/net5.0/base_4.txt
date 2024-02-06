@@ -1,0 +1,3 @@
+[ООО &quot;Сити&quot;]
+Connect=Srvr="host166";Ref="635445_base23";
+
